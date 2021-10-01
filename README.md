@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancervrp&theme=dark" alt>
   
   
-  ![Snake animation](https://github.com/Lancervrp/Lancervrp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LancerVRP/LancerVRP/blob/output/github-contribution-grid-snake.svg)
   
   
   
